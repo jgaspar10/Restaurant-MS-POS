@@ -1,0 +1,13 @@
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\bin\Debug\Restaurant-MS-POS.exe.config
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\bin\Debug\Restaurant-MS-POS.exe
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\bin\Debug\Restaurant-MS-POS.pdb
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\bin\Debug\Guna.UI2.dll
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant_MS_POS.LoginForm.resources
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant_MS_POS.Properties.Resources.resources
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.csproj.GenerateResource.cache
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.csproj.CoreCompileInputs.cache
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.csproj.CopyComplete
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.exe
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.pdb
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.csproj.AssemblyReference.cache
+D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant_MS_POS.Forms.MainForm.resources
