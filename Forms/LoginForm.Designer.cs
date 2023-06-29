@@ -160,7 +160,7 @@ namespace Restaurant_MS_POS
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.White;
+            this.BackColor = System.Drawing.Color.AntiqueWhite;
             this.ClientSize = new System.Drawing.Size(264, 500);
             this.Controls.Add(this.guna2PictureBox1);
             this.Controls.Add(this.exit_button);
