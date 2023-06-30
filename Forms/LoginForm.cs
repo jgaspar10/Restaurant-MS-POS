@@ -25,23 +25,21 @@ namespace Restaurant_MS_POS
 
         private void login_button_Click(object sender, EventArgs e)
         {
-            // Creating Database and User Table
+            string username = username_txtbox.Text;
+            string password = password_txtbox.Text;
 
-            if(MainClass.IsValidUser(username_txtbox.Text, password_txtbox.Text) == false)
+            if (MainClass.IsValidUser(username, password))
             {
-
-                guna2MessageDialog1.Show("Invalid Username or Password");
-                return;
-            
-            }
-            else
-            {
+                // User is valid, perform the necessary actions
                 this.Hide();
                 MainForm mform = new MainForm();
                 mform.Show();
             }
-
-            // Inserting Users 
+            else
+            {
+                // Invalid user, display an error message
+                guna2MessageDialog1.Show("Invalid Username or Password");
+            }
         }
     }
 }

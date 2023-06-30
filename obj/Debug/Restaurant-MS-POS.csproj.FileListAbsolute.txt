@@ -11,3 +11,41 @@ D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant-
 D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.pdb
 D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.csproj.AssemblyReference.cache
 D:\Restaurant Management System-POS-Main\Restaurant-MS-POS\obj\Debug\Restaurant_MS_POS.Forms.MainForm.resources
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\Restaurant-MS-POS.exe.config
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\Restaurant-MS-POS.exe
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\Restaurant-MS-POS.pdb
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\Guna.UI2.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.csproj.AssemblyReference.cache
+D:\RESTAURANT-POS\Restaurant-MS-POS\obj\Debug\Restaurant_MS_POS.LoginForm.resources
+D:\RESTAURANT-POS\Restaurant-MS-POS\obj\Debug\Restaurant_MS_POS.Forms.MainForm.resources
+D:\RESTAURANT-POS\Restaurant-MS-POS\obj\Debug\Restaurant_MS_POS.Properties.Resources.resources
+D:\RESTAURANT-POS\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.csproj.GenerateResource.cache
+D:\RESTAURANT-POS\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.csproj.CoreCompileInputs.cache
+D:\RESTAURANT-POS\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.csproj.CopyComplete
+D:\RESTAURANT-POS\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.exe
+D:\RESTAURANT-POS\Restaurant-MS-POS\obj\Debug\Restaurant-MS-POS.pdb
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\BouncyCastle.Crypto.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\Google.Protobuf.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\K4os.Compression.LZ4.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\K4os.Hash.xxHash.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\MySql.Data.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.Buffers.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.IO.Pipelines.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.Memory.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.Numerics.Vectors.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\BouncyCastle.Crypto.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\Google.Protobuf.pdb
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\Google.Protobuf.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\K4os.Compression.LZ4.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\K4os.Hash.xxHash.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\MySql.Data.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.Buffers.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.IO.Pipelines.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.Memory.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.Numerics.Vectors.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RESTAURANT-POS\Restaurant-MS-POS\bin\Debug\System.Threading.Tasks.Extensions.xml
